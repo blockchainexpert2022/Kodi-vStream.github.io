@@ -1,9 +1,8 @@
 # Site settings
-title: Jekyll Doc Theme
+title: vStream
 email: your-email@domain.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  vStream
 
 baseurl: "/venom-xbmc-doc" # the subpath of your site, e.g. /blog/
 url: https://kodi-vstream.github.io/venom-xbmc-doc # the base hostname & protocol for your site

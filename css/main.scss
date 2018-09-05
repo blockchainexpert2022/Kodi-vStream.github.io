@@ -2,6 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Libre Franklin');
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
@@ -50,8 +51,6 @@ body {
     letter-spacing: 2px;
     font-weight: bold;
     font-size: 8.5em;
-    line-height: 0.5em;
-    margin: 0 0 0.5em 0;
     padding: 0;
     text-shadow:
         3px 3px 0px #002937,

@@ -46,6 +46,16 @@ body {
 
   h1 {
     color: #fff;
+    font-family: "Libre Franklin";
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 8.5em;
+    line-height: 0.5em;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    text-shadow:
+        3px 3px 0px #002937,
+        6px 6px 0px #003a4e;
   }
   // background-attachment: fixed;
   background-size: cover;
@@ -53,18 +63,6 @@ body {
   margin-top: -37px;
 }
 
-.jumbotron .h1 {
-  font-family: "Libre Franklin";
-  letter-spacing: 2px;
-  font-weight: bold;
-  font-size: 8.5em;
-  line-height: 0.5em;
-  margin: 0 0 0.5em 0;
-  padding: 0;
-  text-shadow:
-      3px 3px 0px #002937,
-      6px 6px 0px #003a4e;  
-}
 
 .navbar-container {
   font-size: 16px;

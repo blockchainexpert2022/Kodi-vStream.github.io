@@ -64,6 +64,9 @@ body {
 
 
 .navbar-container {
+    li a.active {
+    background-color: #00435a;
+  }
   font-size: 16px;
 }
 .page-content {

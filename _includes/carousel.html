@@ -12,7 +12,7 @@ images:
 
 Then just include this file where you want the carousel to appear.
  -->
-<div id="picture-carousel" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
   <ol class="carousel-indicators">
   {% for image in page.images %}
@@ -24,7 +24,7 @@ Then just include this file where you want the carousel to appear.
   <div class="carousel-inner" role="listbox">
   {% for image in page.images %}
     <div class="item {% if forloop.first %}active{% endif %}">
-      <img alt="Carousel picture"
+      <img alt=""
         src="{{ site.baseurl }}/{{image.image_path}}">
       {% if image.caption %}
         <div class="carousel-caption">{{ image.caption }}</div>

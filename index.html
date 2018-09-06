@@ -1,5 +1,13 @@
 ---
 layout: default
+
+images:
+  - image_path: images/nemo.jpg
+    caption: Add caption here...
+  - image_path: images/wally.jpg
+    caption: Green mountains
+  - image_path: images/web.jpg
+    caption: Abstract weblike thingy
 ---
 
 <div class="header-container jumbotron">
@@ -30,14 +38,7 @@ layout: default
     </div>
     
     <!--test -->
-<div id="carousel" class="carousel slide" data-ride="carousel" pause="false">
-  <div class="carousel-inner text-center">
-  {% for news in page.carousel %}
-    <div class="item img-cover img-fixed {% if forloop.first %}active{% endif %}" style="background-image:url('{{ news.image }}')">
-      <h2>{{ news.text }}</h2>
-    </div>
-  {% endfor %}
-</div> 
+{% include carousel.html %}
     <!--test -->
 
     <hr>

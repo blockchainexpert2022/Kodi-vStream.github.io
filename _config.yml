@@ -6,7 +6,7 @@ description: >
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://vstream.ga # the base hostname & protocol for your site
-git_address: https://vstream.ga
+git_address: https://github.com/kodi-vstream/venom-xbmc-doc/
 git_edit_address: https://github.com/kodi-vstream/venom-xbmc-doc/blob/gh-pages
 
 # theme options from https://bootswatch.com/

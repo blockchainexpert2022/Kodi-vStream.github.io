@@ -53,3 +53,9 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+   
+images:
+  - image_path: img/home.png
+    caption: Add caption here...
+  - image_path: img/jekyll.png
+    caption: Green mountains

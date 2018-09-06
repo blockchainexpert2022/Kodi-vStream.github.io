@@ -6,4 +6,10 @@
 <script src="{{ "/js/typeahead.bundle.min.js" | prepend: site.baseurl }} "></script>
 
 <script src="{{ "/js/main.js" | prepend: site.baseurl }} "></script>
-<script>$('.carousel').carousel()</script>
+<script type='text/javascript'>
+    $(document).ready(function() {
+         $('.carousel').carousel({
+             interval: 2000
+         })
+    });    
+</script>

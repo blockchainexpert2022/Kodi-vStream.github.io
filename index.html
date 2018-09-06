@@ -30,7 +30,28 @@ layout: default
     </div>
     
     <!--test -->
-{% include carousel.html %}  
+...
+carousel:
+  - image: home/athenaBeta.jpeg
+    text: random text 1
+
+  - image: home/transport.jpeg
+    text: |
+      random text 2
+
+  - image: home/coffee.jpeg
+    text: |
+      random text 3
+---
+
+<div id="carousel" class="carousel slide" data-ride="carousel" pause="false">
+  <div class="carousel-inner text-center">
+  {% for news in page.carousel %}
+    <div class="item img-cover img-fixed {% if forloop.first %}active{% endif %}" style="background-image:url('{{ news.image }}')">
+      <h2>{{ news.text }}</h2>
+    </div>
+  {% endfor %}
+</div> 
     <!--test -->
 
     <hr>

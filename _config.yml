@@ -29,13 +29,7 @@ exclude:
   - .gitignore
   - README.md
 timezone: Europe/Berlin
-images:
-  - image_path: img/1.jpeg
-    caption: Add caption here...
-  - image_path: img/2.jpeg
-    caption: Green mountains
-  - image_path: img/3.jpeg
-    caption: Abstract weblike thingy
+
 defaults:
 - scope:
     path: _posts

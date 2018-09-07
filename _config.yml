@@ -47,6 +47,13 @@ defaults:
     seo:
       type: "WebPage"
       
+- scope:
+    path: _repo
+    type: redirect
+  values:
+    layout: repo
+    sectionid: repo
+      
 
 collections:
   docs:
@@ -58,6 +65,5 @@ collections:
     
   repo:
     permalink: /repo
-    redirect_to:
-      - http://www.example.com
+    output: true
     

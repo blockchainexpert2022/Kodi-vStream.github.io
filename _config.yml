@@ -48,11 +48,9 @@ defaults:
       type: "WebPage"
       
 - scope:
-    path: _repo
-    type: redirect
+    type: redirects
   values:
-    layout: repo
-    sectionid: repo
+    layout: redirect
       
 
 collections:
@@ -62,8 +60,6 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
-    
-  repo:
-    permalink: /repo
+  redirects:
     output: true
     

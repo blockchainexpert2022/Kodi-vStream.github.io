@@ -47,11 +47,11 @@ defaults:
     seo:
       type: "WebPage"
       
- - scope:
-      path: _repo
-    values:
-      layout: repo
-      sectionid: repo
+- scope:
+    path: _repo
+  values:
+    layout: repo
+    sectionid: repo
 
 collections:
   docs:

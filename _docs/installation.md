@@ -3,12 +3,45 @@ title: Installation
 permalink: /docs/installation/
 ---
 
-## A savoir
+## Installer depuis une url
 
-vStream n'est pas affilié avec KODI, URL-Resoler, ou autres services payants, il n'est pas préinstallé sur des box Android ou tout autres systèmes. Il n'a pas d'autre URL de téléchargement que Github. Il est gratuit et n'a pas d'assistance online. vStream est programmé par la communauté sans fin commercial. Le Github est un espace de discussions pour les contributeurs et le suivi de la programmation (bug, idée etc..). Si vous proposez des liens de téléchargement ou l'installation de vStream Merci de citer le Github et les contributeurs.
+- L'url https://vstream.ga/repo n'est plus disponible.
+
+## Installer depuis un fichier zip
+
+[![images](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Repository-blue.svg?style=for-the-badge)](https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/Repository)
+
+- Depuis Home cliquer sur extensions puis sur l'icone de la petite boite.
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_1.jpg)
 
 
-## C'est Quoi KODI!
 
-Kodi, anciennement XBMC, est un lecteur multimédia libre, il permet de lire un très grand nombre de formats, mais également de regarder des streamings grâce aux addons.
-[Télécharger Kodi](https://kodi.tv/download)
+ - Installer depuis un zip.
+ - Choisissez le dossier local contenant repository.vstream-x.x.x.zip
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_2.jpg)
+
+
+  
+ - Depuis Home cliquer sur extensions puis sur Installer depuis un dépôt.
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_3.jpg)
+  
+  
+  
+- Sélectionner vStream Repository.
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_4.jpg)   
+  
+  
+  
+- Sélectionner Extensions Vidéos.
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_5.jpg)
+
+
+
+- Sélectionner vStream.
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_6.jpg)
+  
+  
+  
+- Sélectionner vStream / Installater
+ ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_7.jpg)
+ 

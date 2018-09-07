@@ -60,4 +60,7 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+  repo:
+    permalink: /:collection/
+    output: true
    

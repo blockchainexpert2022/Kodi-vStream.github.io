@@ -46,6 +46,11 @@ defaults:
     sectionid: docs
     seo:
       type: "WebPage"
+      
+ - scope:
+      path: "_repo"
+    values:
+      layout: "repo"
 
 collections:
   docs:

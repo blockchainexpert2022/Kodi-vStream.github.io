@@ -51,7 +51,7 @@ defaults:
     path: _repo
     type: redirects
   values:
-    layout: repo
+    layout: redirect
     sectionid: repo
 
 collections:

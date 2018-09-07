@@ -30,9 +30,6 @@ exclude:
   - README.md
 timezone: Europe/Berlin
 
-permalink: /repo
-redirect_to: 'http://exodieno.free.fr/repo'
-
 defaults:
 - scope:
     path: _posts
@@ -58,4 +55,9 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+    
+  repo:
+    permalink: /repo
+    redirect_to:
+      - http://www.example.com
     

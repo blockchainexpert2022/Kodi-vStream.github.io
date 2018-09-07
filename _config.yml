@@ -47,10 +47,10 @@ defaults:
     seo:
       type: "WebPage"
       
-- scope:
-    type: redirects
-  values:
-    layout: redirect
+#- scope:
+#    type: redirects
+#  values:
+#    layout: redirect
       
 
 collections:
@@ -60,6 +60,6 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
-  redirects:
-    output: true
+  #redirects:
+    #output: true
     

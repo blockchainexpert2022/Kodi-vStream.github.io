@@ -49,5 +49,6 @@ permalink: /docs/installation/
   
   
 - Sélectionner vStream / Installater
- ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_7.jpg)
+
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_7.jpg)
  

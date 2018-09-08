@@ -1,5 +1,5 @@
 ---
-title: Clone
+title: Clone Github
 permalink: /docs/clone/
 ---
 

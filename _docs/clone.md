@@ -3,8 +3,6 @@ title: Clone Github
 permalink: /docs/clone/
 ---
 
-Ceci est ma façon de faire y en a 50 autres perso je trouve ça pratique et rapide à mettre en œuvre.
--------
 ## Les logiciels
 - [Kodi 17.6](https://kodi.tv/download).
 - [Visual studio code](https://code.visualstudio.com/).

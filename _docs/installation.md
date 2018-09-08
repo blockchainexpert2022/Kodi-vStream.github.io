@@ -9,7 +9,7 @@ permalink: /docs/installation/
 
 ## Installer depuis un fichier zip
 
-[![images](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Repository-blue.svg?style=for-the-badge)](https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/Repository)
+[![images](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Repository-blue.svg?style=for-the-badge)](https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/0.0.3)
 
 - Depuis Home cliquer sur extensions puis sur l'icone de la petite boite.
 

@@ -1,12 +1,17 @@
+---
+title: Clone
+permalink: /docs/clone/
+---
+
 Ceci est ma façon de faire y en a 50 autres perso je trouve ça pratique et rapide à mettre en œuvre.
 -------
-1. Les logiciels
+## Les logiciels
 - [Kodi 17.6](https://kodi.tv/download).
 - [Visual studio code](https://code.visualstudio.com/).
 - [Git 2.18.0](https://git-scm.com/).
 
 --------
-2. Visual studio code
+## Visual studio code
 - Télécharger et lancer visual studio code.
 - Lancer la palette de commande.
 
@@ -20,7 +25,7 @@ Ceci est ma façon de faire y en a 50 autres perso je trouve ça pratique et rap
 ![Imgur](https://i.imgur.com/lg7nKKa.png)
 
 --------
-3. Kodi
+## Kodi
 - Lancer kodi et installer le depot de vstream puis vstream.
 - Aller dans les informations de vstream.
 
@@ -31,7 +36,7 @@ Ceci est ma façon de faire y en a 50 autres perso je trouve ça pratique et rap
 ![Imgur](https://i.imgur.com/ivSSPQ3.jpg)
 
 --------
-4. Les dossiers
+## Les dossiers
 - Rendez-vous dans le dossier du clone de github. (**venom-xbmc-addons**).
 - Crée un lien vers le dossier **plugin-video-vstream**.
 
@@ -50,7 +55,7 @@ Ceci est ma façon de faire y en a 50 autres perso je trouve ça pratique et rap
 - Vous voila avec la version bêta en direct.
 
 --------
-5. Visual studio code
+## Visual studio code
 - Relancer visual studio code.
 - Si vous avez activer l’ autofetch le logiciel vous informeras si un pull est disponible. (en bas a gauche le petit (1).
 - **Dans tous les cas**, Il vous suffis de cliquez sur le petit cercle pour faire la récupération.

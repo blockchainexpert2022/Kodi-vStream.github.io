@@ -1,14 +1,43 @@
 ---
-title: Edite
+title: Pages
 permalink: /docs/site/
 ---
 
-## A savoir
+## Creer une page
 
-vStream n'est pas affilié avec KODI, URL-Resoler, ou autres services payants, il n'est pas préinstallé sur des box Android ou tout autres systèmes. Il n'a pas d'autre URL de téléchargement que Github. Il est gratuit et n'a pas d'assistance online. vStream est programmé par la communauté sans fin commercial. Le Github est un espace de discussions pour les contributeurs et le suivi de la programmation (bug, idée etc..). Si vous proposez des liens de téléchargement ou l'installation de vStream Merci de citer le Github et les contributeurs.
+**1.** Ajouter une nouvelle page dans le dossier _docs/ 
+(create new file exemple.md)
+Votre fichier doit commencer par ces quelques lignes.
 
+```
+---
+title: My Page
+permalink: /docs/my-page/
+---
 
-## C'est Quoi KODI!
+Hello World!
+```
 
-Kodi, anciennement XBMC, est un lecteur multimédia libre, il permet de lire un très grand nombre de formats, mais également de regarder des streamings grâce aux addons.
-[Télécharger Kodi](https://kodi.tv/download)
+Le nom donné en permalink ici my-page ceras celui de l'url.
+
+**2.** Editer `_data/docs.yml` vous pouvez créer un nouveau menu ou utiliser ceux déja présent.
+
+```
+- title: Bien débuter
+  docs:
+  - home
+  - installation
+  - clone
+  - themes
+  - customization
+  - my-page
+  
+```
+
+ou
+
+```  
+- title: Nouveau menu
+  docs:
+  - my-page
+```

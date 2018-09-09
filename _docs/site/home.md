@@ -18,7 +18,7 @@ permalink: /docs/my-page/
 Hello World!
 ```
 
-Le nom donné en permalink ici my-page ceras celui de l'url.
+Le nom donné en permalink ici my-page est celui de l'url.
 
 **2.** Editer `_data/docs.yml` vous pouvez créer un nouveau menu ou utiliser ceux déja présent.
 

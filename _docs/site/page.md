@@ -1,6 +1,6 @@
 ---
 title: Pages
-permalink: /docs/site/
+permalink: /docs/page/
 ---
 
 ## Creer une page

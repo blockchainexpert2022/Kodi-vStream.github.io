@@ -2,14 +2,13 @@
   docs:
   - home
   - installation
-  - clone
   - update
   - folder
 
 - title: En détail
   docs:
-  - cheatsheet
-  - font-awesome
+  - clone
+  - add
   - bootstrap
   
 - title: Modifier docs

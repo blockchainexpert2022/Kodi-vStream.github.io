@@ -7,7 +7,7 @@ permalink: /docs/update/
 
 Installez notre repository pour avoir la dernière version installée automatiquement, mais certains fichiers ne seront pas à jours (cf plus bas)
 
-https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/Repository
+https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/0.0.3
 
 ## Mise à jour semi-automatique (Dans le menu d’accueil de vStream)
 

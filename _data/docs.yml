@@ -4,12 +4,16 @@
   - installation
   - update
   - folder
+  - dependances
 
 - title: En détail
   docs:
+  - outils
   - clone
   - add
-  - bootstrap
+  - script
+  - metalliq
+  - recaptcha
   
 - title: Modifier docs
   docs:

@@ -1,8 +1,6 @@
-## menu docs
-Edité : _data/docs.yml
+## modifier docs
 
-Ajouter vos page dans :  _docs/
-
+http://vstream.ga/docs/page/
 
 
 ## Jekyll Doc Theme

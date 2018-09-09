@@ -41,3 +41,12 @@ ou
   docs:
   - my-page
 ```
+
+## Editer une page
+
+- Sur chaque page ce trouve un lien (modifier cette page)
+- Il vous suffis de modifier le fichier .md et de faire un pull request.
+
+## Lien utilise
+- CSS bootstrap : https://getbootstrap.com/docs/4.1/getting-started/introduction/
+- Editeur de texte Markdown : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

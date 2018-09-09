@@ -1,7 +1,9 @@
 ---
-title: Ajouter une source
+title: Recaptcha
 permalink: /docs/recaptcha/
 ---
+
+## Comment utiliser Recaptcha sur Vstream sans chrome launcher
 
 Étape 1:Aller sur kodi et ensuite dans paramètres et ensuite service vérifier que le serveur web et activé ainsi que les 2 cases pour le contrôle à distance
 

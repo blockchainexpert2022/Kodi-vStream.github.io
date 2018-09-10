@@ -4,12 +4,17 @@ permalink: /docs/installation/
 ---
 
 ### Installer depuis une url
+------
 
 - L'url https://vstream.ga/repo n'est plus disponible.
 
-### Installer depuis un fichier zip
+### Télécharger
+------
 
 [![images](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Repository-blue.svg?style=for-the-badge)](https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/0.0.3)
+
+### Installer depuis un fichier .zip
+---
 
 - Depuis Home cliquer sur extensions puis sur l'icone de la petite boite.
 

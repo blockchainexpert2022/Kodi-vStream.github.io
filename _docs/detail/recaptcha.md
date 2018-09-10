@@ -3,17 +3,18 @@ title: Recaptcha
 permalink: /docs/recaptcha/
 ---
 
-## Comment utiliser Recaptcha sur Vstream sans chrome launcher
+### Comment utiliser Recaptcha sur Vstream sans chrome launcher
+---
 
-Étape 1:Aller sur kodi et ensuite dans paramètres et ensuite service vérifier que le serveur web et activé ainsi que les 2 cases pour le contrôle à distance
+- Aller sur kodi et ensuite dans paramètres et ensuite service vérifier que le serveur web et activé ainsi que les 2 cases pour le contrôle à distance
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-134431.png )
 
-Étape 2:Télécharger l'application Kore sur le Play store sur votre smartphone 
+- Télécharger l'application Kore sur le Play store sur votre smartphone 
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-134521.png )
 
-Étape 3:Configurer Kore 
+- Configurer Kore 
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-134700.png )
 
@@ -23,27 +24,27 @@ Pour accéder à votre IP local aller sur kodi dans la section infos du système
 
 Généralement le port c'est 8080 sauf si vous aviez modifié au paravant (voir l'étape 1)
 
-Étape 4:Prenez le film de votre choix et arrêter vous dès que vous voyiez pareille que moi
+- Prenez le film de votre choix et arrêter vous dès que vous voyiez pareille que moi
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-135256.png  )
 
-Étape 5:Copié l'URL affiché sur le choix de votre hébergeur dans votre navigateur sur votre smartphone
+- Copié l'URL affiché sur le choix de votre hébergeur dans votre navigateur sur votre smartphone
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-135418.png )
 
-Étape 6:Copié le lien de l'hébergeur donner quand vous avez résolue le captcha 
+- Copié le lien de l'hébergeur donner quand vous avez résolue le captcha 
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-135450.png )
 
-Étape 7:Retourner sur kodi et clicker dessus sur le lien que vois avez choisi précédemment 
+- Retourner sur kodi et clicker dessus sur le lien que vois avez choisi précédemment 
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-135320.png )
 
-Étape 8: Aller sur kore et cliquer sur les 3 petits points ensuite sur <envoyé du texte au centre multimédia>
+- Aller sur kore et cliquer sur les 3 petits points ensuite sur <envoyé du texte au centre multimédia>
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-135534.png  )
 
-Étape 9:Collé le lien que vous avez Copié sur votre smartphone l'url de l'hébergeur du captcha résolu
+- Collé le lien que vous avez Copié sur votre smartphone l'url de l'hébergeur du captcha résolu
 
 ![](https://github.com/Ovni-crea/addons/raw/master/autre/image/Autre/Screenshot_20180802-135550.png )
 
@@ -53,4 +54,5 @@ Coché la case terminer après l'envoie et c'est fini vous avez l'URL de votre f
 
 Voilà c'est terminer et vous faite sa pour chaque captcha ed-protect et autre a l'avenir 
 
+---
 PS:le tutoriel peut changer plus tard si une autre méthode et fonctionnel sur vstream pour recaptcha

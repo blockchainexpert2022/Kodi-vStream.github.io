@@ -3,15 +3,16 @@ title: Outils
 permalink: /docs/outils/
 ---
 
-## Outils
 
-### Addon Utile ###
+### Addon Utile
+---
 
 Log Viewer for Kodi vous permez de voir votre log, l'uploader ect..
 
 http://kodi.wiki/view/Add-on:Log_Viewer_for_Kodi
 
-### Paramètres Outils de vStream ###
+### Paramètres Outils de vStream
+---
 
 vStream propose plusieurs outils pour vous aider.
 

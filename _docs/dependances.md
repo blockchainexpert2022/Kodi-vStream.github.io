@@ -3,7 +3,8 @@ title: Dépendances
 permalink: /docs/dependances/
 ---
 
-## Liste des dépendances
+### Liste des dépendances
+---
 
 - xbmc.python
 

@@ -3,7 +3,9 @@ title: Script
 permalink: /docs/script/
 ---
 
-### Script Bash par Venom ###
+### Script Bash par Venom
+---
+
 ```bash
 #!/bin/bash
 
@@ -27,7 +29,9 @@ http://localhost:8080/ ou localhost peux être l'ip de votre Kodi.
 - (Linux) Dans un terminal executer : bash /cible du fichier/json.sh.
 - (windows) Aucune idée.
 
-### Script Bash par 1shad ###
+### Script Bash par 1shad
+---
+
 ```bash
 #!/bin/sh
 

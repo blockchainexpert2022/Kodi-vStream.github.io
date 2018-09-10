@@ -3,6 +3,9 @@ title: Ajouter une source
 permalink: /docs/add/
 ---
 
+### Pour commencer
+---
+
 Tout d'abord vérifiez que le site n'existe pas déjà (même sous un autre nom) et que quelqu'un n'est pas déjà sur le coup. Il y a également un répertoire de sources commencées mais par encore terminées.
 
 Pour vous aider, vous pouvez partir du fichier squelette https://github.com/Kodi-vStream/venom-xbmc-addons/blob/Beta/ajouter_une_source.py. (Il est fortement conseillé de partir de ce fichier, plutôt que d'une autre source existante.)
@@ -23,7 +26,9 @@ Merci de faire un effort pour au moins commencer le fichier avant de demander de
 Une fois fini, vous pouvez aussi le proposer en version officielle, sans votre feu vert, votre fichier ne sera pas réutilisé.
 
 
-## Exemple de méthode sous Firefox pour trouver les regex. ##  
+### Exemple de méthode sous Firefox pour trouver les regex.
+---
+
 Sélectionnez la partie de la page qui vous intéresse, (quelques titres/images/liens), clic droit "code source de la sélection", copier/coller le code obtenu sur le site regex101 (ou celui que vous préférez), et il ne vous reste plus qu'à tester vos regex.
 
 Pour avoir un explication sur les regex, le plus simple étant de chercher "tutorial expression régulière" sur google (trop de choses à expliquer ici).  
@@ -44,14 +49,17 @@ aEntry[0] : titre du film
 aEntry[1] : url du poster   
 aEntry[2] : lien   
 
-## Image ##
+### Image
+---
 [![Demo](http://zupimages.net/up/17/14/145p.jpg)](http://zupimages.net/up/17/14/145p.jpg)
 
-## Logiciel Utile ##
-Editeur Python: 
-[Sublime Text](http://www.sublimetext.com/)
-ou
-[Notepad++](http://notepad-plus-plus.org/fr/)   
-Test ``sPattern``: 
-[Pythex](http://pythex.org/)
+### Logiciel Utile
+---
+
++ Editeur Python: 
+  - [Sublime Text](http://www.sublimetext.com/)
+  - [Notepad++](http://notepad-plus-plus.org/fr/)   
+
++ Test ``sPattern``: 
+  - [Pythex](http://pythex.org/)
 

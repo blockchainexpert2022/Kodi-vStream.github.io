@@ -3,7 +3,7 @@ title: MetalliQ
 permalink: /docs/metalliq/
 ---
 
-<div class="bs-callout bs-callout-warning">L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x</div>
+<div class="highlight">L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x</div>
 
 ### Tuto installer MetalliQ by @Arias800***
 ---

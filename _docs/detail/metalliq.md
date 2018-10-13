@@ -3,14 +3,11 @@ title: MetalliQ
 permalink: /docs/metalliq/
 ---
 
-<div class="highlight">L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x</div>
 
-<p class="bg-danger">L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x</p>
+<p class="bg-danger"> L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x </p>
 
-<span class="label label-danger">L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x</span>
 
-<div class="page-header">
-  <h1>Tuto installer MetalliQ by @Arias800</h1>
+### Tuto installer MetalliQ by @Arias800 ###
 ---
 
 - Installer Metalliq : [tuto d'installation](https://howtomediacenter.com/en/metalliq-kodi-addon-library-integration/)

@@ -5,7 +5,7 @@ permalink: /docs/metalliq/
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    ### Tuto installer MetalliQ by @Arias800 ###
+    <h2 class="panel-title">Tuto installer MetalliQ by @Arias800</h2>
   </div>
   <div class="panel-body">
     Panel content

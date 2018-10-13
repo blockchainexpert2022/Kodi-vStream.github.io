@@ -3,6 +3,15 @@ title: MetalliQ
 permalink: /docs/metalliq/
 ---
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Tuto installer MetalliQ by @Arias800</h3>
+  </div>
+  <div class="panel-body">
+    Panel content
+    contnent
+  </div>
+</div>
 
 <p class="bg-danger"> L' ajout à la médiathèque ne fonctionneras pas sur KODI 16x </p>
 

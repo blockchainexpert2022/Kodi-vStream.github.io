@@ -1,8 +1,7 @@
 # Site settings
 title: vStream
 email: your-email@domain.com
-description: >
-  vStream
+description: Addon de streaming pour Kodi
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://vstream.ga # the base hostname & protocol for your site

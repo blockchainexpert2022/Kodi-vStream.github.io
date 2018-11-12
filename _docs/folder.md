@@ -3,21 +3,24 @@ title: Dossier
 permalink: /docs/folder/
 ---
 
-### Dossier addon de Kodi
+### Dossier de Kodi
 ---
 
-- Android : **Android/data/org.xbmc.kodi/files/.kodi/addon/**
-- iOS : **/private/var/mobile/Library/Preferences/Kodi/addon/**
-- Linux : **~/.kodi/addon/**
-- Mac : **/Users/%USER%/Library/Application Support/Kodi/addon/**
-- OpenELEC : **/storage/.kodi/addon/**
-- Windows : **%APPDATA%\roaming\kodi\addon\**
-- Windows 10 (Store) : **\Users\%USER%\AppData\Local\Packages\XBMCFoundation.Kodi_xxx\LocalCache\Roaming\Kodi\addons\**
+- Android : **Android/data/org.xbmc.kodi/files/.kodi/**
+- iOS : **/private/var/mobile/Library/Preferences/Kodi/**
+- Linux : **~/.kodi/**
+- Mac : **/Users/%USER%/Library/Application Support/Kodi/**
+- OpenELEC : **/storage/.kodi/**
+- Windows : **%APPDATA%\roaming\kodi\**
+- Windows 10 (Store) : **\Users\%USER%\AppData\Local\Packages\XBMCFoundation.Kodi_xxx\LocalCache\Roaming\Kodi\**
 
 1) Remplacer **kodi** par **xbmc** suivant la version installée.
 
-2) Appdatta et .kodi sont des fichiers caches.
+2) le dossier **addons** contient tous vos addons installés. (vstream, youtube, etc..)
 
+3) le dossier **userdata** contient tous les fichiers relatif à votre compte Kodi (Playercorefactory, Keymap)
+
+4) Appdatta et .kodi sont des fichiers caches.
 
 
 ### Dossier vStream

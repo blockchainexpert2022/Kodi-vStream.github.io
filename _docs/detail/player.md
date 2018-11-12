@@ -10,9 +10,9 @@ permalink: /docs/lecteurs/
 Le lecteur de Kodi à ces defauts, aussi pour améliorer la lecture vous pouvez faire sortir la video, music et même le streaming sur un lecteur externe pour cela il suffis d'ajouter un fichier playercorefactory.xml à votre dossier userdata.
 
 
-1. **Trouvé le dossier userdata** : https://vstream.ga/docs/folder/
+**Trouvé le dossier userdata** : [Voir ici](https://vstream.ga/docs/folder/)
 
-2. **Céer un fichier playercorefactory.xml** : 
+**Céer un fichier playercorefactory.xml** : 
 
 - le lecteur externe sera VLC Windows. 
 - Mode plein ecrand activé.
@@ -35,10 +35,8 @@ Le lecteur de Kodi à ces defauts, aussi pour améliorer la lecture vous pouvez 
 </playercorefactory>
 ```
 
-3. **Un grand choix d'option** :
+**Un grand choix d'option** :
 
-Constulter le Wiki officiel de Kodi pour en savoir plus sur les differentes options disponible. Les plus interessantes (Filetype,Filename)
-https://kodi.wiki/view/External_players
+Constulter le Wiki officiel de Kodi pour en savoir plus sur les differentes options disponible. Les plus interessantes (Filetype,Filename). [Wiki Kodi](https://kodi.wiki/view/External_players)
 
-4. **Les lecteurs Android** : Un grand choix de lecteur s'offre à vous, ceux d'Android sont les plus importants car ce sont ceux qui ont le plus de soucis de Codec.
-https://kodi.wiki/view/HOW-TO:Use_external_players_on_Android#Basic_playercorefactory.xml_file
+**Les lecteurs Android** : Un grand choix de lecteur s'offre à vous, ceux d'Android sont les plus importants car ce sont ceux qui ont le plus de soucis de Codec. [Wiki Kodi](https://kodi.wiki/view/HOW-TO:Use_external_players_on_Android#Basic_playercorefactory.xml_file)

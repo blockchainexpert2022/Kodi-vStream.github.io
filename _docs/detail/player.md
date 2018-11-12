@@ -39,4 +39,6 @@ Le lecteur de Kodi à ces defauts, aussi pour améliorer la lecture vous pouvez 
 
 Constulter le Wiki officiel de Kodi pour en savoir plus sur les differentes options disponible. Les plus interessantes (Filetype,Filename). [Wiki Kodi](https://kodi.wiki/view/External_players)
 
-**Les lecteurs Android** : Un grand choix de lecteur s'offre à vous, ceux d'Android sont les plus importants car ce sont ceux qui ont le plus de soucis de Codec. [Wiki Kodi](https://kodi.wiki/view/HOW-TO:Use_external_players_on_Android#Basic_playercorefactory.xml_file)
+**Les lecteurs Android** : 
+
+Un grand choix de lecteur s'offre à vous, ceux d'Android sont les plus importants car ce sont ceux qui ont le plus de soucis de Codec. [Wiki Kodi](https://kodi.wiki/view/HOW-TO:Use_external_players_on_Android#Basic_playercorefactory.xml_file)

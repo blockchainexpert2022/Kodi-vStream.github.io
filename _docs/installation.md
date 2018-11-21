@@ -27,7 +27,7 @@ permalink: /docs/installation/
 
 ### Installer depuis une Url
 
-- Choisisser le dossier creer avec l'adresse http://vstream.ga/repo/
+- Choisisser le dossier créer avec l'adresse http://vstream.ga/repo/
 
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo6.jpg)
 

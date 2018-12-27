@@ -43,6 +43,9 @@ permalink: /docs/clone/
 
 - Rendez-vous dans le dossier du clone de github. (**venom-xbmc-addons**).
 - Crée un lien vers le dossier **plugin-video-vstream**.
+- Sous Windows ne faite pas un raccourci mais un lien symbolique.
+ 
+ ```mklink /D C:\Users\USER\AppData\Roaming\Kodi\addons\plugin.video.vstream C:\Users\USER\Documents\venom-xbmc-addons\plugin.video.vstream```
 
 ![Imgur](https://i.imgur.com/dprD0Zm.png)
 

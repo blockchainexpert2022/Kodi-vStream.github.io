@@ -6,7 +6,7 @@ permalink: /docs/installation2/
 ### Installer depuis une url
 ------
 
-- Url : https://vstream.ga/repo/
+- Url : http://www.vstream.ml/repo/
 
 - Depuis Home cliquer sur Système puis sur Gestionnaire de fichier.
 
@@ -20,7 +20,7 @@ permalink: /docs/installation2/
 
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo2.jpg)
 
- - Entrer l'url http://vstream.ga/repo/
+ - Entrer l'url http://www.vstream.ml/repo/
  
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo3.jpg)
 

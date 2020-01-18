@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: Addon de streaming pour Kodi
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: http://vstream.ml # the base hostname & protocol for your site
+url: https://github.com/kodi-vstream/venom-xbmc-doc # the base hostname & protocol for your site
 git_address: https://github.com/kodi-vstream/venom-xbmc-doc/
 git_edit_address: https://github.com/kodi-vstream/venom-xbmc-doc/blob/gh-pages
 

@@ -6,28 +6,24 @@ permalink: /docs/installation2/
 ### Installer depuis une url
 ------
 
-- Url : http://www.vstream.ml/repo/
+- Url : https://kodi-vstream.github.io/repo/
 
-- Depuis Home cliquer sur Système puis sur Gestionnaire de fichier.
+- Depuis le menu principal, cliquer sur _Système_ puis sur _Gestionnaire de fichiers_.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo.jpg)
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo.jpg)
 
-- Ajouter une Source.
+- Cliquer sur _Ajouter une source_.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo1.jpg)
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo1.jpg)
 
-- Aucun 
+- Cliquer sur _Aucun_.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo2.jpg)
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo2.jpg)
 
- - Entrer l'url http://www.vstream.ml/repo/
+ - Entrer l'url https://kodi-vstream.github.io/repo/
  
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo3.jpg)
-
- - Choisissez le nom donner au fichier ici Repository vstream
+ - Choisir le nom donné à la source, par exemple _Repository vStream_
  
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo4.jpg)
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo5.jpg)
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_repo5.jpg)
-
-Pour la suite utiliser la methode [installater depuis un zip](http://vstream.ga/docs/installation/).
+Pour la suite, continuer à suivre où vous en étiez [Installer le repository](https://kodi-vstream.github.io/docs/installation/).

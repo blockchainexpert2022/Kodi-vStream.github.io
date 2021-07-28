@@ -3,7 +3,7 @@ title: Installation
 permalink: /docs/installation/
 ---
 
-### Installer le repository
+### 1. Installer le repository
 ---
 Tout d'abord, vous devez installer le repository qui contient **vStream**.
 Pour installer ce repository, vous avez le choix entre :
@@ -30,7 +30,7 @@ Pour installer ce repository, vous avez le choix entre :
    - Choisir _repository.vstream-x.x.x.zip_
 
 
-### Installer l'extension vStream
+### 2. Installer l'extension vStream
 ---
 
  - Depuis le menu principal, cliquer sur _Extensions_ puis sur _Installer depuis un dépôt_.

@@ -1,6 +1,6 @@
-## modifier docs
+## Modifier la documentation
 
-http://vstream.ga/docs/page/
+https://kodi-vstream.github.io/docs/page/
 
 
 ## Jekyll Doc Theme

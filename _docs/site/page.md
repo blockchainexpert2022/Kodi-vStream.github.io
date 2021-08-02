@@ -3,7 +3,7 @@ title: Pages
 permalink: /docs/page/
 ---
 
-### Creer une page
+### Créer une page
 ---
 
 - Ajouter une nouvelle page dans le dossier _docs/ 
@@ -21,7 +21,7 @@ Hello World!
 
 Le nom donné en permalink ici my-page est celui de l'url.
 
-- Editer `_data/docs.yml` vous pouvez créer un nouveau menu ou utiliser ceux déja présent.
+- Editer `_data/docs.yml` vous pouvez créer un nouveau menu ou utiliser ceux déjà présents.
 
 ```
 - title: Bien débuter
@@ -46,10 +46,10 @@ ou
 ### Editer une page
 ---
 
-- Sur chaque page ce trouve un lien (modifier cette page)
-- Il vous suffis de modifier le fichier .md et de faire un pull request.
+- Sur chaque page se trouve un lien (_Modifier cette page_)
+- Il vous suffit de modifier le fichier _.md _et de faire un _pull request_.
 
-### Lien utilise
+### Liens utilisés
 ---
 - CSS bootstrap : https://getbootstrap.com/docs/4.1/getting-started/introduction/
 - Editeur de texte Markdown : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

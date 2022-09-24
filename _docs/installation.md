@@ -3,43 +3,64 @@ title: Installation
 permalink: /docs/installation/
 ---
 
-### 1. Installer le repository
+### 1. Installer le chemin
 ---
-Tout d'abord, vous devez installer le repository qui contient **vStream**.
-Pour installer ce repository, vous avez le choix entre :
 
-- Solution n°1 : Télécharger le repository directement en zip     
-     
-  [![images](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Repository-blue.svg?style=for-the-badge)](https://github.com/Kodi-vStream/venom-xbmc-addons/releases/tag/0.0.3)
-  
-   - Depuis le menu principal de Kodi, cliquer sur _Extensions_ puis sur l'icone de la petite boite   
-      
-     ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_1.jpg)
-     
-    - Cliquer sur _Installer depuis un zip_
-    - Choisir le dossier local contenant _repository.vstream-x.x.x.zip   _ 
-        
-      ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_2.jpg)
+Ce chemin réseau permet d'installer ce qui est nécessaire sans devoir télécharger de fichiers.
 
-- Solution n°2 : Ajouter l'url où le repository est stocké à votre Gestionnaire de fichiers **Kodi**, pour cela suivre [Installation (URL)](https://kodi-vstream.github.io/docs/installation2/)
+- Depuis le menu principal de KODI, cliquer sur _Système_ puis sur _Gestionnaire de fichiers_.
+
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo.jpg)
+
+- Cliquer sur _Ajouter une source_.
+
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo1.jpg)
+
+- Cliquer sur _Aucun_.
+
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo2.jpg)
+
+ - Entrer l'url https://kodi-vstream.github.io/repo/
+ 
+ - Choisir le nom donné à la source, par exemple _repository vStream_
+ 
+ 
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo5.jpg)
+
+
+Cette étape est terminée, revenez à l'écran d'accueil de Kodi.
+
+### 2. Installer le dépôt
+---
+
+Un dépôt est l'emplacement qui contient la dernière version de l'extension.
+En anglais, le terme Dépôt est appelé "repository".
+
+En installant l'extension vStream depuis son dépôt, cela va permettre à Kodi de télécharger automatiquement les mises à jour de vStream.
+
+- Depuis le menu principal de Kodi, cliquer sur _Extensions_ puis sur _Installer d'un fichier Zip_.
    
    - Choisir le dossier préalablement ajouté dans votre Gestionnaire de fichiers    
        
      ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo6.jpg)
      
    - Choisir _repository.vstream-x.x.x.zip_
+  
+     ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo7.jpg)
 
 
 ### 2. Installer l'extension vStream
 ---
 
- - Depuis le menu principal, cliquer sur _Extensions_ puis sur _Installer depuis un dépôt_.
+Une fois le dépôt installé, il ne reste plus qu'à installer vStream depuis ce dépôt.
+
+ - Depuis le menu principal de Kodi, cliquer sur _Extensions_ puis sur _Installer depuis un dépôt_.
  
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_3.jpg)
 
 
 
-- Sélectionner _vStream Repository_.
+- Sélectionner le dépôt : _vStream Repository_.
 
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_4.jpg)   
 
@@ -60,4 +81,4 @@ Pour installer ce repository, vous avez le choix entre :
 - Sélectionner _Installer_
 
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_7.jpg)
- 
+

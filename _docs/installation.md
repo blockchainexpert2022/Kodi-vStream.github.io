@@ -23,8 +23,11 @@ Ce chemin réseau permet d'installer ce qui est nécessaire sans devoir téléch
  - Entrer l'url https://kodi-vstream.github.io/repo/
  
  - Choisir le nom donné à la source, par exemple _repository vStream_
+
+![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo4.jpg)
  
- 
+Le chemin est ajouté :
+
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo5.jpg)
 
 

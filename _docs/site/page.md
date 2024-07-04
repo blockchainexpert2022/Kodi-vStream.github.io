@@ -3,7 +3,7 @@ title: Pages
 permalink: /docs/page/
 ---
 
-### Créer une page
+### Hello World !
 ---
 
 - Ajouter une nouvelle page dans le dossier _docs/ 
